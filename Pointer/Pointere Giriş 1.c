@@ -1,5 +1,5 @@
-// * olduğu durumlarda adrese gider adreste bulunan kutu icerisinde islem yapar!
-// & oldugu zaman adrese yonledirme amacı vardır. Ex : scanf ("%d",&.....)
+// * olduÄŸu durumlarda adrese gider adreste bulunan kutu icerisinde islem yapar!
+// & oldugu zaman adrese yonledirme amacÄ± vardÄ±r. Ex : scanf ("%d",&.....)
 
 #include <stdio.h>
 #include <conio.h>
@@ -16,7 +16,7 @@ int main ()
 	cp = &c;
 	dp = &d;
 	
-	printf ("%d sayisinin adresi %d dir.\n",*ap,ap);
+	printf ("%d sayisinin adresi %d dir. kendi adresi %u\n",*ap,ap,&ap);
 	printf ("%.2f sayisinin adresi %d dir.\n",*bp,bp);
 	printf ("%.2lf sayisinin adresi %d dir.\n",*cp,cp);
 	printf ("%c harfinin adresi %d dir.\n",*dp,dp);

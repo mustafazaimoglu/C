@@ -7,7 +7,7 @@ int main()
 {
     int *testPointer;
 
-    // testPointer = malloc(5 * sizeof(int));
+     testPointer = malloc(5 * sizeof(int));
 
     if (testPointer == NULL)
     {

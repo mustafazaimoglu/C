@@ -26,5 +26,4 @@ int main()
         printf("%u\n",(p+i));
     }
 
-    printf("%d",n1);
 }

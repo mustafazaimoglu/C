@@ -1,0 +1,13 @@
+Mustafa Zaimoglu.
+bu bir test yazisidir.
+
+if(testYazisi.Length > 0)
+{
+    printf("guzel");
+}
+
+r = Opens an existing text file for reading purpose.
+w = Opens a text file for writing. If it does not exist, then a new file is created. Here your program will start writing content from the beginning of the file.
+
+yeter bu kadar.
+sdf 

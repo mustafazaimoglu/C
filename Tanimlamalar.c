@@ -11,6 +11,5 @@ int main (){
 	
 	printf ("%d %c %d %.4f %.3f %dl %s" ,a,b,c,d,e,f,"MKZ");
 	
-	getch ();
 	return 0;
 }

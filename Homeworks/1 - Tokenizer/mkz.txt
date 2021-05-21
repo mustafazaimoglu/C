@@ -1,0 +1,52 @@
+int main()
+{
+    int i,n = 10,y,xa;
+    char mkz = 'o';
+    float k;
+    double rrr;
+
+    scanf("%c",&mkz);
+
+    for (i = 0; i <= n; i++)
+    {
+        y = 7 + 20 * xa;
+
+        if (y >= 20)
+        {
+            y = 0;
+        }
+    }
+
+    i = 0;
+    while (1)
+    {
+        puts("\nFly like a bee!");
+
+        i--;
+
+        p -= t;
+        l *= m;
+        s /= y;
+        q %= r;
+
+        if (i%4 == 8)
+        {
+            break;
+        }
+        else if(i != 15)
+        {
+            continue;
+        }
+    }
+
+    do
+    {
+        printf("%c",mkz);
+    }
+    while(0);
+
+    if(ab == NULL || ad == NULL)
+    {
+        break;
+    }
+}

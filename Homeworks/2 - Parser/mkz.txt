@@ -1,0 +1,16 @@
+if(ege >= mustafa)
+{
+    kamil = ramazan
+}
+else if(bruce < 150)
+{
+    george = john
+}
+else if(mustafa != 150)
+{
+    george = john
+}
+else
+{
+    george = 0
+}
